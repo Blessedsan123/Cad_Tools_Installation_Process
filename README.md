@@ -5,12 +5,12 @@ This repository contains step-by-step installation guides for various CAD tools 
 ## Xilinx
 
 ### ISE WebPACK
-- [Windows 10 Installation Guide](./ISE_WebPACK/Windows_10_Installation.md)
+- [Windows 10 Installation Guide]
 
 ### Vivado
-- [Windows Installation Guide](./Vivado/Windows_Installation.md)
-- [Ubuntu Installation Guide](./Vivado/Ubuntu_Installation.md)
-- [Red Hat Installation Guide](./Vivado/RedHat_Installation.md)
+- [Windows Installation Guide]
+- [Ubuntu Installation Guide]
+- [Red Hat Installation Guide]
 
 ## How to Use
 1. Navigate to the desired CAD tool folder.
