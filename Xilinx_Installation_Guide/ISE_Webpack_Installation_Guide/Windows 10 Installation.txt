@@ -1,0 +1,47 @@
+Xilinx ISE Wepack Installation Process : ------------------------------------------------------------
+
+Windows 10 : ----------------------------------------------------------------------------------------
+
+step 1 : Open any Browser and search for ISE 14.7 download.
+
+Direct link : https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive-ise.html
+
+step 2 : Choose your reliable version, Click on that.
+
+step 3 : Choose the Windows zip file , Click on that.
+
+step 4 : Create an AMD account if you have not, Otherwise go for login.
+
+step 5 : Fill the all neccessary things in the form, Click on Download.
+
+step 6 : After Download, Go to Downloads and extract the zip file.
+
+step 7 : After that click on the xsetup exe file. it automatically start the installation.
+
+step 8 : Between the installation process click all ok/install/yes to download essential softwares.
+
+step 9 : After installtion click on finish and not open the software.(mandetory)
+
+step 10 : After that goto -> c:/Xilinx/14.7/ISE_DS/ISE/lib/nt64/
+
+step 11 : Search for file name : libPortability.dll and rename it as libPortability.dll.orig
+
+step 12 : After that search for file name libPortabilityNOSH.dll and copy it and paste in the same location and rename it as libPortability.dll.
+
+step 13 : Then rename the pasted file as  : liPortabiltyNOSH.dll
+
+step 14 : After that goto -> c:/Xilinx/14.7/ISE_DS/common/lib/nt64/
+
+step 15 : Paste the file that you copied here .
+
+step 16 : Rename the file : libPortability.dll and rename it as libPortability.dll.orig
+
+step 17 : Rename libPortabilityNOSH.dll as libPortability.dll.
+
+step 18 : close the file explorer and click the yellow colored ise 14.7 sofware on desktop
+
+step 19 : After open click on exsiting license and wait saome time then click on manage license and then click on load license.
+
+step 20 : Select the license file an upload it..
+
+---------------------------------------------------- finished =============================================================
