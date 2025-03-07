@@ -1,0 +1,53 @@
+Xilinx Vivado installtion Process :---------------------------------------
+
+Redhat 7.9-------------------------
+
+step 1 : Open any Browser and search for vivado download.
+
+Direct link : https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html
+
+step 2 : Choose your reliable version, Click on that.
+
+step 3 : Choose the linux extracter bin file , Click on that.
+
+step 4 : Create an AMD account if you have not, Otherwise go for login.
+
+step 5 : Fill the all neccessary things in the form, Click on Download.
+
+step 6 : After Download, Go to Downloads and right click and open terminal.
+
+step 7 : Click ls for see the file is there or not.
+
+step 8 : To make that file executable type : chmod +x <file_name>. Then hit enter.
+
+step 9 : Now go to root and type  ./<file_name>, hit enter.
+
+step 10 : Now a window will pop up. hit next.
+          
+          -> give your email id and password of AMD for further proceed.
+          -> choose vivado and next.
+          -> choose vivado ml standard you want to use the free version.
+          -> agree all the check box and hit next.
+          -> then select the path to install and then click on install.
+
+step 11 : Goto the xilinx license solution center then create a license file from there.
+
+step 12 : After installation go to the root directory.
+
+step 13 : Then go to the mentioned directory : /tools/Xilinx/Vivado/<your_version>/settings64
+
+step 14 : Type vivado there it will open.
+
+step 15 : But to access direct that from any terminal here are the following step:
+
+          -> make a file named vivado_open 
+          -> paste the command source /tools/Xilinx/Vivado/<your_version>/settings64 for reference in desktop
+          -> while you open that open desktop teminal paste the command and after that type vivado it will open
+
+step 16 : After that open the terminal in  desktop and type vivado it will open up.
+
+
+--------------------------------------------------------- end ----------------------------------------------------
+
+
+

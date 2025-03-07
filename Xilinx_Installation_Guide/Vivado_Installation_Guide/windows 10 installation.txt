@@ -1,0 +1,33 @@
+Xilinx Vivado installtion Process :---------------------------------------
+
+Windows 10 -------------------------
+
+step 1 : Open any Browser and search for vivado download.
+
+Direct link : https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html
+
+step 2 : Choose your reliable version, Click on that.
+
+step 3 : Choose the Windows self extracter exe file , Click on that.
+
+step 4 : Create an AMD account if you have not, Otherwise go for login.
+
+step 5 : Fill the all neccessary things in the form, Click on Download.
+
+step 6 : After Download, Go to Downloads and click on the exe file.
+
+step 7 : Now a window will pop up. hit next.
+          
+          -> give your email id and password of AMD for further proceed.
+          -> choose vivado and next.
+          -> choose vivado ml standard you want to use the free version.
+          -> agree all the check box and hit next.
+          -> then select the path to install and then click on install.
+
+step 8 : Goto the xilinx license solution center then create a license file from there.
+
+
+--------------------------------------------------------- end ----------------------------------------------------
+
+
+
