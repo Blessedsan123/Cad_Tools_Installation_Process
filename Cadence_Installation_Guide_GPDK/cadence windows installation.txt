@@ -1,0 +1,19 @@
+Cadence-Virtuoso crack version Installation Guide :--------------------------------------------------------------------------------
+
+Windows 10/11 : ---------------------------------------------------------------------
+
+step 1 : open any browser and search for Vmware workstation download techspot
+
+Direct link : 
+
+step 2 : Download the latest vmware workstation and after download just install it.
+
+step 3 : Again open any browser and search for genintopc and search for Cadence virtuoso and download the gpdk package iso file.
+
+step 4 : After download unzip the file and open the vmware workstation.
+
+step 5 :  goto file -> open -> select the vm file from the cadence folder and click ok.
+
+step 6 : goto edit vmware setting and click on option and create a file name exchange and link that to the vmware to the host machine(windows).
+
+step 7 : after that just run the vm machine... 
